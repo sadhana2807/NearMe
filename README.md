@@ -164,6 +164,7 @@ Jalakandeswarar Temple is a historic Hindu temple dedicated to Lord Shiva, locat
 
 
 ## OUTPUT
+![alt text](6.png)
 ![alt text](1.png)
 ![alt text](2.png)
 ![alt text](3.png)
